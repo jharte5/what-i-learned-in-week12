@@ -1,17 +1,17 @@
 ### What i learned in week 12
 
-* CodeWars
+# CodeWars
     * Player Contact Manager
     * Welcome
     * The Office I Boredom Score
 
-* Projects =>
-  * Object Stuff - learning about objects
-    ```function setAge(person, age) {
+# Projects =>
+    * Object Stuff - learning about objects
+```function setAge(person, age) {
   person.age = age
 }```
 
-  * Thingagram - working with grid template areas
+    * Thingagram - working with grid template areas
 
   * An_Objectively_Challenging_Game - 
   ```const playerDmg = getAttackDamage(player.attackMin, player.attackMax);
